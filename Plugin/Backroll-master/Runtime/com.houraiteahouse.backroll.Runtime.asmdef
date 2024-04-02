@@ -1,0 +1,16 @@
+{
+    "name": "com.houraiteahouse.backroll.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "com.houraiteahouse.core.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

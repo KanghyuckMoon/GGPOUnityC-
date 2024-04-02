@@ -1,0 +1,17 @@
+{
+  "author": "Hourai Teahouse",
+  "name": "com.houraiteahouse.backroll",
+  "displayName": "Backroll",
+  "version": "0.2.0",
+  "description": "Port of GGPO to C# built atop Hourai Networking",
+  "homepage": "https://github.com/HouraiTeahouse/Backroll",
+  "bugs": "https://github.com/HouraiTeahouse/Backroll/issues",
+  "repository": "github:HouraiTeahouse/Backroll",
+  "dependencies": {
+    "com.houraiteahouse.core": "0.1.1",
+    "com.houraiteahouse.networking": "0.2.0"
+  },
+  "publishConfig": {
+    "registry": "https://upm.houraiteahouse.net"
+  }
+}

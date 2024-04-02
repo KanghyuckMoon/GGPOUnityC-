@@ -1,0 +1,16 @@
+{
+    "name": "UnityGGPO.Plugin.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ab768d79a959da74aaf7d2d4b88ed58a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
